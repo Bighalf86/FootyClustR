@@ -39,6 +39,6 @@ At the end of the 2023/24 football season, AS Roma's manager De Rossi discussed 
 🔹 To be followed by further scouting, assessing tactical/technical, physical, psychological, and social attributes.
 🔹 Develop an interactive Shiny dashboard
 
-🏆 Credits
+## 🏆 Credits
 - Data sourced from fbref, transfermarkt, and fotmob
 - Analysis performed in R
