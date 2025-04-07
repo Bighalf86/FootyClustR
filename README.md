@@ -5,7 +5,7 @@ _A Data-Driven Approach to Football Player Scouting Using R_
 At the end of the 2023/24 football season, AS Roma's manager De Rossi discussed the upcoming summer transfer market and mentioned he would follow the Atalanta recruitment model, and would seek players with pace such as Jeremie Frimpong. Inspired by this real-life scenario, this project applies **clustering and data-driven analysis** to identify football players similar to a reference player (**Jeremie Frimpong**), who meet the selected age and market value attributes. The model is built using **R**, incorporating **K-means clustering, data visualization, and statistical analysis**.
 
 ## 🚀 Key Features  
-✔ **Player Clustering**: Identifies similar players using selected KPIs (possession KPIs only in this case) 
+✔ **Player Clustering**: Identifies similar players using selected KPIs (possession KPIs only in this case)  
 ✔ **Machine Learning Methods**: K-means clustering applied to football scouting  
 ✔ **Advanced Visualizations**: Cluster plots, radar charts and bar rankings for insights  
 ✔ **Market Value Insights**: Filters players based on transfer value  
@@ -34,10 +34,10 @@ At the end of the 2023/24 football season, AS Roma's manager De Rossi discussed 
 - Transfer market values were integrated to meet the initial business requirements.
 
 ## 📌 Future Improvements
-🔹 Automate data import from online APIs
-🔹 Expand scouting methodology with hierarchical clustering
-🔹 To be followed by further scouting, assessing tactical/technical, physical, psychological, and social attributes.
-🔹 Develop an interactive Shiny dashboard
+🔹 Automate data import from online APIs  
+🔹 Expand scouting methodology with hierarchical clustering  
+🔹 To be followed by further scouting, assessing tactical/technical, physical, psychological, and social attributes  
+🔹 Develop an interactive Shiny dashboard  
 
 ## 🏆 Credits
 - Data sourced from fbref, transfermarkt, and fotmob
